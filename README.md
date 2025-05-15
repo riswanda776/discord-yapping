@@ -42,7 +42,7 @@ cd yapping-selfbot
 ### 2. Install Dependency
 
 ```bash
-npm install discord.js-selfbot-v13
+npm install
 ```
 
 ---
@@ -53,7 +53,7 @@ npm install discord.js-selfbot-v13
 
 - Tambahkan token-token Discord kamu:
 ```js
-const TOKENS = [
+const TOKEN = [
   "TOKEN_DISCORD_1",
   "TOKEN_DISCORD_2",
   ...
